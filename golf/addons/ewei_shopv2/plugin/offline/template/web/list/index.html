@@ -1,0 +1,107 @@
+{template '_header'}
+
+<!--添加订单-->
+<div class="modal fade" id="modal-container-623974" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title" id="myModalLabel2">
+                    上传excel
+                </h4>
+            </div>
+            <div class="modal-body">
+                <input type="file" name="orderExcel"/>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+                <button type="button" class="btn btn-primary">提交</button>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+
+
+<!--订单详细-->
+<div class="modal fade" id="modal-container-580157" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title" id="myModalLabel">
+                    订单详细
+                </h4>
+            </div>
+            <div class="modal-body">
+                内容...
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+<div class="page-heading">
+    <span class='pull-right'>
+        <a id="modal-623974" href="#modal-container-623974" role="button" class="btn btn-primary btn-sm" data-toggle="modal"><i class="fa fa-plus"></i>上传订单excel</a>
+        <!--<a class='btn btn-primary btn-sm' data-toggle='ajaxModal' href="{php echo webUrl('abonus/level/add')}"><i class="fa fa-plus"></i> 上传订单excel</a>-->
+	</span>
+    <h2>订单列表</h2>
+</div>
+<!--订单号	下单时间	交易时间	商户名称	商户编号	门店名称	门店编号	交易状态	交易类型	付款方式	原始金额	优惠金额	实际交易	手续费	平台分润	机构分润	机构	机器编号	付款信息	信用卡	原始订单号	第三方交易号	收款信息(入账人卡号)-->
+
+<table class="table table-responsive table-hover">
+    <thead>
+    <tr>
+        <th>银行订单号</th>
+        <th>下单时间</th>
+        <th>交易时间</th>
+        <th>商户名称</th>
+        <th>交易状态</th>
+        <th>付款方式</th>
+        <th>实际交易</th>
+        <th>第三方交易号</th>
+        <th>操作</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>10000</td>
+        <td>2016-01-05 14:52:14</td>
+        <td>2016-01-05 14:52:14</td>
+        <td>东源堂</td>
+        <td>已支付</td>
+        <td>微信</td>
+        <td>1000</td>
+        <td>44U1000</td>
+        <td>
+            <a id="modal-580157" href="#modal-container-580157" role="button" class="btn btn-default btn-sm" data-toggle="modal"><i class='fa fa-edit'></i>查看</a>
+            <!--<a class='btn btn-default btn-sm' data-toggle='ajaxModal'  href="" title="查看"><i class='fa fa-edit'></i>查看</a>-->
+        </td>
+    </tr>
+    {loop $list $row}
+    <tr>
+    <td>10000</td>
+    <td>2016-01-05 14:52:14</td>
+    <td>2016-01-05 14:52:14</td>
+    <td>东源堂</td>
+    <td>已支付</td>
+
+
+    <td>
+        <a class='btn btn-default btn-sm' data-toggle='ajaxModal'  href="" title="查看"><i class='fa fa-edit'></i>详细</a>
+    </td>
+
+    </tr>
+    {/loop}
+
+    </tbody>
+</table>
+{template '_footer'}
+

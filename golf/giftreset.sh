@@ -1,0 +1,1 @@
+0 0 * * * root php /data/golf/golf/giftreset.php

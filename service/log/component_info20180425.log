@@ -1,0 +1,2300 @@
+[2018-04-25 00:00:01][15634:650409518:1524585601][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:01:01][15731:1624030522:1524585661][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:02:01][15828:654489144:1524585721][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:03:01][15923:629738360:1524585781][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:04:01][16019:172055914:1524585841][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:05:01][16110:444680695:1524585901][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:06:01][16203:1264397314:1524585961][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:07:01][16309:239632238:1524586021][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:08:01][16406:618195147:1524586081][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:09:01][16510:1320719065:1524586141][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:10:01][16653:1132795689:1524586201][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:11:02][16748:1501017438:1524586262][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:12:01][16841:667380026:1524586321][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:13:01][16935:632191780:1524586381][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:14:01][17030:1698572415:1524586441][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:15:01][17127:208996235:1524586501][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:16:01][17220:1793663641:1524586561][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:17:01][17335:200105616:1524586621][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:18:01][17483:19356832:1524586681][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:19:01][17593:721547263:1524586741][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:20:01][17692:220130076:1524586801][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:21:01][17794:1669233715:1524586861][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:22:01][17891:455650848:1524586921][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:23:01][17986:709145449:1524586981][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:24:01][18079:1482436750:1524587041][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:25:01][18171:1044382221:1524587101][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:26:01][18265:2047729187:1524587161][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:27:01][18362:1048258714:1524587221][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:28:01][18455:546224225:1524587281][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:29:01][18550:647558613:1524587341][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:30:02][18644:1079643998:1524587402][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:31:01][18735:41801424:1524587461][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:32:01][18828:952632658:1524587521][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:33:01][18921:1213665871:1524587581][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:34:01][19018:964581119:1524587641][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:35:01][19115:2132005315:1524587701][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:36:01][19210:832681921:1524587761][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:37:01][19303:995163448:1524587821][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:38:01][19397:1916455353:1524587881][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:39:01][19495:1285735:1524587941][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:40:01][19644:1118589722:1524588001][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:41:01][19739:210074911:1524588061][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:42:01][19834:1311818783:1524588121][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:43:01][19927:1072766648:1524588181][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:44:01][20020:728537246:1524588241][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:45:01][20117:1725758712:1524588301][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:46:01][20214:144267424:1524588361][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:47:02][20310:72214339:1524588422][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:48:01][20401:831895182:1524588481][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:49:01][20496:271140917:1524588541][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:50:01][20587:397047226:1524588601][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:51:01][20676:1158466997:1524588661][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:52:01][20771:1993929990:1524588721][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:53:01][20868:2132803536:1524588781][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:54:01][20964:1715006632:1524588841][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:55:01][21054:129247544:1524588901][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:56:01][21147:275607977:1524588961][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:57:01][21245:339504179:1524589021][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:58:01][21336:887972013:1524589081][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 00:59:01][21433:532400326:1524589141][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:00:01][21528:72917062:1524589201][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:01:01][21623:117301882:1524589261][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:02:01][21718:1867179703:1524589321][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:03:01][21809:544166121:1524589381][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:04:01][21907:1562902127:1524589441][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:05:02][22000:1236886732:1524589502][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:06:01][22095:1864873618:1524589561][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:07:01][22188:402484484:1524589621][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:08:01][22280:1336305464:1524589681][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:09:01][22377:1240560750:1524589741][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:10:01][22522:128446198:1524589801][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:11:01][22618:408451634:1524589861][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:12:01][22716:1254342176:1524589921][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:13:01][22813:1165132159:1524589981][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:14:01][22909:1501798042:1524590041][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:15:01][23002:1170970532:1524590101][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:16:01][23097:1750499367:1524590161][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:17:01][23195:388379173:1524590221][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:18:01][23294:1870461247:1524590281][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:19:01][23389:1899696675:1524590341][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:20:02][23440:638427852:1524590402][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:21:01][23486:1364702652:1524590461][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:22:01][23531:641847144:1524590521][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:23:01][23576:874399240:1524590581][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:24:01][23621:1629180011:1524590641][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:25:01][23666:1823456349:1524590701][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:26:01][23710:908719158:1524590761][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:27:01][23756:343990682:1524590821][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:28:01][23801:1230181330:1524590881][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:29:01][23846:1244354375:1524590941][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:30:01][23901:375097601:1524591001][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:31:01][23949:1228886620:1524591061][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:32:01][23994:1343447804:1524591121][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:33:01][24039:557167914:1524591181][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:34:01][24087:980555967:1524591241][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:35:01][24148:637729053:1524591301][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:36:01][24209:1329866907:1524591361][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:37:01][24280:1665022839:1524591421][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:38:02][24346:2138131286:1524591482][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:39:01][24417:1271596645:1524591541][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:40:01][24555:1660446092:1524591601][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:41:01][24640:1394438945:1524591661][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:42:01][24709:27879466:1524591721][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:43:01][24778:2142849919:1524591781][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:44:01][24849:1775818378:1524591841][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:45:01][24920:726424916:1524591901][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:46:01][24992:753972266:1524591961][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:47:01][25061:1858678588:1524592021][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:48:01][25130:234292074:1524592081][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:49:01][25286:1536421299:1524592141][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:50:01][25359:1055444772:1524592201][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:51:01][25431:2097848692:1524592261][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:52:01][25500:440299232:1524592321][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:53:02][25571:2137660544:1524592382][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:54:01][25640:465830691:1524592441][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:55:01][25712:1325767689:1524592501][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:56:01][25783:70923543:1524592561][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:57:01][25854:2040946322:1524592621][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:58:01][25925:1114426742:1524592681][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 01:59:01][25999:983731404:1524592741][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:00:01][26068:2055208886:1524592801][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:01:01][26137:940957384:1524592861][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:02:01][26208:312436963:1524592921][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:03:01][26280:206087520:1524592981][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:04:01][26350:35278895:1524593041][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:05:01][26420:503304745:1524593101][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:06:01][26492:699007929:1524593161][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:07:01][26551:323917909:1524593221][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:08:01][26624:985310938:1524593281][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:09:01][26672:1554473654:1524593341][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:10:01][26994:27314662:1524593401][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:11:01][27039:134014343:1524593461][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:12:01][27086:2014068878:1524593521][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:13:01][27130:1178956479:1524593581][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:14:01][27175:684782165:1524593641][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:15:01][27220:940412096:1524593701][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:16:01][27268:702866580:1524593761][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:17:01][27325:1078386049:1524593821][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:18:01][27422:54931029:1524593881][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:19:01][27515:74440466:1524593941][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:20:01][27612:1934906572:1524594001][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:21:01][27708:1279314889:1524594061][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:22:01][27806:1587118127:1524594121][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:23:01][27901:2041249638:1524594181][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:24:01][27994:278031240:1524594241][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:25:01][28071:1013807905:1524594301][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:26:01][28116:931019070:1524594361][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:27:01][28160:1624102489:1524594421][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:28:01][28206:1346836039:1524594481][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:29:01][28253:1139799910:1524594541][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:30:01][28297:61864439:1524594601][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:31:01][28343:1414024021:1524594661][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:32:02][28388:242276983:1524594722][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:33:01][28432:1988110316:1524594781][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:34:01][28477:304166084:1524594841][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:35:01][28523:652915083:1524594901][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:36:01][28567:178839245:1524594961][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:37:01][28612:1175999602:1524595021][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:38:01][28659:115556298:1524595081][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:39:01][28713:886509792:1524595141][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:40:01][28816:1758716379:1524595201][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:41:01][28865:58687660:1524595261][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:42:01][28914:1154482493:1524595321][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:43:01][28963:732367116:1524595381][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:44:01][29014:1934146945:1524595441][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:45:01][29061:16123721:1524595501][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:46:02][29107:1860518001:1524595562][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:47:01][29154:988258920:1524595621][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:48:01][29201:1631948538:1524595681][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:49:01][29246:218439144:1524595741][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:50:01][29291:388845602:1524595801][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:51:01][29336:165153793:1524595861][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:52:01][29381:1981692914:1524595921][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:53:01][29426:1441925745:1524595981][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:54:01][29471:973713998:1524596041][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:55:01][29517:1664539707:1524596101][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:56:01][29564:1346094802:1524596161][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:57:01][29609:203756882:1524596221][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:58:01][29654:1149121171:1524596281][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 02:59:01][29701:1465878166:1524596341][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:00:01][29745:1706820020:1524596401][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:01:01][29791:1419386378:1524596461][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:02:01][29836:2091244167:1524596521][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:03:01][29880:1568083848:1524596581][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:04:02][29929:525369145:1524596642][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:05:01][29974:1127261669:1524596701][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:06:01][30019:1526294838:1524596761][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:07:01][30064:295489553:1524596821][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:08:01][30109:768321863:1524596881][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:09:01][30157:2056342658:1524596941][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:10:01][30254:1679503025:1524597001][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:11:01][30299:932480410:1524597061][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:12:01][30344:1741797813:1524597121][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:13:01][30390:697926586:1524597181][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:14:01][30437:76321796:1524597241][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:15:01][30482:1706286616:1524597301][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:16:01][30525:2044500888:1524597361][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:17:01][30574:1276335055:1524597421][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:18:01][30620:1526382346:1524597481][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:19:01][30665:793457511:1524597541][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:20:01][30710:1720075163:1524597601][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:21:01][30755:970417623:1524597661][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:22:01][30801:1504813560:1524597721][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:23:01][30845:767934641:1524597781][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:24:01][30891:279820748:1524597841][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:25:01][30936:1135339924:1524597901][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:26:01][30981:404999841:1524597961][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:27:01][31026:1657579696:1524598021][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:28:01][31071:1546213116:1524598081][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:29:01][31117:711876664:1524598141][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:30:01][31162:720503711:1524598201][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:31:01][31206:1398678601:1524598261][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:32:01][31252:774349894:1524598321][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:33:01][31297:867833108:1524598381][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:34:01][31342:974754726:1524598441][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:35:01][31387:1306278266:1524598501][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:36:01][31432:632873212:1524598561][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:37:02][31477:200303311:1524598622][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:38:01][31530:1912441831:1524598681][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:39:01][31578:346324770:1524598741][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:40:01][31675:1149811973:1524598801][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:41:01][31720:934168183:1524598861][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:42:01][31765:1316570636:1524598921][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:43:01][31810:1731242196:1524598981][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:44:01][31855:1794783633:1524599041][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:45:01][31900:1060167135:1524599101][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:46:01][31946:70209938:1524599161][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:47:01][31991:234972332:1524599221][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:48:01][32036:390559480:1524599281][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:49:01][32080:1116054585:1524599341][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:50:01][32126:650626177:1524599401][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:51:01][32171:840304129:1524599461][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:52:01][32216:565616005:1524599521][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:53:01][32261:609484485:1524599581][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:54:02][32307:6879911:1524599642][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:55:01][32351:1056536436:1524599701][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:56:01][32396:1362755194:1524599761][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:57:01][32442:2033482033:1524599821][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:58:01][32487:379456907:1524599881][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 03:59:01][32532:428566500:1524599941][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:00:01][32578:337719469:1524600001][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:01:01][32622:1883064427:1524600061][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:02:01][32667:619878737:1524600121][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:03:01][32713:2060757892:1524600181][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:04:01][32758:2015362057:1524600241][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:05:01][335:521752708:1524600301][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:06:01][390:1439342016:1524600361][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:07:01][436:80987625:1524600421][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:08:01][481:1682280458:1524600481][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:09:01][531:646189744:1524600541][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:10:01][628:325317173:1524600601][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:11:01][674:102497423:1524600661][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:12:01][719:341168571:1524600721][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:13:01][764:757083697:1524600781][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:14:01][809:2025463254:1524600841][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:15:01][854:519775226:1524600901][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:16:01][899:464743228:1524600961][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:17:01][947:2101681964:1524601021][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:18:01][995:1050150325:1524601081][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:19:01][1047:103441459:1524601141][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:20:01][1094:110683143:1524601201][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:21:01][1139:2048009397:1524601261][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:22:01][1185:516986930:1524601321][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:23:01][1232:185619119:1524601381][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:24:01][1280:1531735844:1524601441][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:25:01][1326:1484185944:1524601501][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:26:01][1370:105430609:1524601561][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:27:02][1418:894074971:1524601622][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:28:01][1462:295563798:1524601681][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:29:01][1507:1477382938:1524601741][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:30:01][1551:377685689:1524601801][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:31:01][1597:1461596631:1524601861][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:32:01][1643:1157949199:1524601921][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:33:01][1688:1445938451:1524601981][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:34:01][1733:45478539:1524602041][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:35:01][1778:1684010052:1524602101][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:36:01][1823:563955121:1524602161][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:37:01][1869:506517281:1524602221][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:38:01][1916:2079880354:1524602281][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:39:01][1972:1849858284:1524602341][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:40:01][2069:653324755:1524602401][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:41:01][2114:1891364963:1524602461][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:42:01][2159:954922806:1524602521][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:43:01][2203:1279129335:1524602581][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:44:02][2249:1805595798:1524602642][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:45:01][2294:11543168:1524602701][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:46:01][2339:796053791:1524602761][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:47:01][2384:2141703174:1524602821][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:48:01][2429:948211297:1524602881][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:49:01][2473:2055379757:1524602941][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:50:01][2519:1729925450:1524603001][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:51:01][2563:1266732937:1524603061][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:52:01][2609:755999301:1524603121][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:53:01][2654:1470753659:1524603181][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:54:01][2700:1985214047:1524603241][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:55:01][2746:646485640:1524603301][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:56:01][2791:201411967:1524603361][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:57:01][2836:1840203413:1524603421][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:58:01][2881:2111573368:1524603481][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 04:59:01][2926:166880555:1524603541][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:00:01][2971:499400870:1524603601][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:01:01][3016:1772087886:1524603661][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:02:02][3061:896465095:1524603722][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:03:01][3105:1543991634:1524603781][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:04:01][3151:1085930195:1524603841][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:05:01][3196:1200121563:1524603901][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:06:01][3241:243028702:1524603961][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:07:01][3320:448748621:1524604021][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:08:01][3425:1675760230:1524604081][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:09:01][3531:2140617739:1524604141][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:10:01][3682:530568734:1524604201][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:11:01][3781:165372397:1524604261][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:12:01][3880:865418219:1524604321][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:13:01][3979:2146267528:1524604381][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:14:01][4084:1018512581:1524604441][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:15:01][4185:850908881:1524604501][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:16:01][4284:1943248569:1524604561][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:17:02][4381:1266732371:1524604622][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:18:01][4479:1673579829:1524604681][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:19:01][4584:611390616:1524604741][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:20:01][4691:1041065241:1524604801][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:21:01][4794:1465093898:1524604861][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:22:01][4897:85123549:1524604921][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:23:01][4996:139211236:1524604981][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:24:01][5095:862830752:1524605041][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:25:01][5194:188973734:1524605101][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:26:01][5297:1487699300:1524605161][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:27:01][5400:1944763593:1524605221][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:28:01][5501:1888490485:1524605281][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:29:01][5600:697610360:1524605341][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:30:01][5697:858549203:1524605401][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:31:01][5796:2074981000:1524605461][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:32:01][5899:427487231:1524605521][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:33:01][6006:638153930:1524605581][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:34:02][6109:1800817582:1524605642][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:35:01][6210:761239770:1524605701][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:36:01][6307:1383048958:1524605761][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:37:01][6406:469788425:1524605821][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:38:01][6505:1524479475:1524605881][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:39:01][6609:1703905154:1524605941][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:40:01][6762:1811263444:1524606001][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:41:01][6861:612310014:1524606061][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:42:01][6954:1864562813:1524606121][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:43:01][7051:1668178283:1524606181][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:44:01][7147:633835336:1524606241][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:45:01][7248:1759762741:1524606301][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:46:01][7354:395463750:1524606361][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:47:01][7455:135726004:1524606421][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:48:01][7553:2055465680:1524606481][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:49:02][7649:1054717360:1524606542][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:50:01][7748:200238538:1524606601][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:51:01][7849:1198911771:1524606661][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:52:01][7952:852517793:1524606721][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:53:01][8050:946461802:1524606781][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:54:01][8148:504631026:1524606841][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:55:01][8245:1221108490:1524606901][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:56:01][8340:1064808216:1524606961][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:57:01][8439:660771915:1524607021][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:58:01][8546:307494793:1524607081][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 05:59:01][8647:1255485760:1524607141][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:00:01][8746:902420415:1524607201][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:01:01][8843:593982281:1524607261][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:02:01][8938:1025005532:1524607321][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:03:01][9037:1680388368:1524607381][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:04:01][9140:382752351:1524607441][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:05:01][9253:792970754:1524607501][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:06:01][9390:941218036:1524607561][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:07:02][9489:1211141179:1524607622][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:08:01][9572:810105958:1524607681][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:09:01][9671:1638583566:1524607741][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:10:01][9830:1590201228:1524607801][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:11:01][9931:780859494:1524607861][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:12:01][10043:561791362:1524607921][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:13:01][10139:1841095931:1524607981][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:14:01][10236:1464109608:1524608041][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:15:01][10330:480071045:1524608101][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:16:01][10431:890034639:1524608161][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:17:01][10531:1789677243:1524608221][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:18:01][10641:1581083440:1524608281][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:19:01][10735:450908944:1524608341][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:20:01][10831:418886857:1524608401][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:21:01][10927:1961371521:1524608461][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:22:02][11022:1967681479:1524608522][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:23:01][11109:2011842706:1524608581][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:24:01][11210:1192302789:1524608641][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:25:01][11320:384865750:1524608701][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:26:01][11485:1357772029:1524608761][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:27:01][11644:1484752995:1524608821][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:28:01][11744:1629930161:1524608881][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:29:01][11843:1711263493:1524608941][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:30:01][11953:84070804:1524609001][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:31:02][12050:1990834708:1524609062][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:32:01][12136:682092538:1524609121][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:33:01][12229:360977917:1524609181][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:34:01][12326:1983365620:1524609241][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:35:01][12421:1093341106:1524609301][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:36:01][12520:1146073253:1524609361][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:37:01][12621:476392717:1524609421][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:38:01][12723:1924164549:1524609481][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:39:01][12826:614620376:1524609541][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:40:01][12974:1085055919:1524609601][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:41:01][13071:325214718:1524609661][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:42:01][13174:1662920448:1524609721][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:43:01][13276:119078068:1524609781][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:44:01][13375:1257399382:1524609841][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:45:01][13471:1628616697:1524609901][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:46:01][13569:1904467366:1524609961][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:47:02][13664:1984510481:1524610022][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:48:01][13763:460815449:1524610081][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:49:01][13866:521267240:1524610141][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:50:01][13967:1257860016:1524610201][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:51:01][14068:1005305685:1524610261][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:52:01][14166:1119650171:1524610321][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:53:01][14263:1574164132:1524610381][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:54:01][14370:1503542797:1524610441][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:55:01][14469:1230215396:1524610501][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:56:01][14570:1324472985:1524610561][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:57:01][14667:22617780:1524610621][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:58:01][14764:1754502681:1524610681][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 06:59:01][14859:1210766728:1524610741][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:00:01][14956:1617424974:1524610801][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:01:01][15054:687379928:1524610861][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:02:01][15160:605330383:1524610921][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:03:01][15259:408081564:1524610981][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:04:02][15358:1783249038:1524611042][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:05:01][15452:2132515585:1524611101][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:06:01][15549:154693964:1524611161][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:07:01][15650:256351155:1524611221][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:08:01][15754:124667586:1524611281][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:09:01][15864:1650372717:1524611341][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:10:01][16017:994004687:1524611401][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:11:01][16114:640052349:1524611461][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:12:01][16213:839259239:1524611521][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:13:01][16313:749900475:1524611581][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:14:01][16413:1529436830:1524611641][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:15:01][16518:772508467:1524611701][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:16:01][16620:1036254821:1524611761][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:17:01][16723:1588367659:1524611821][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:18:01][16820:877075792:1524611881][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:19:02][16922:869709397:1524611942][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:20:01][17021:757225253:1524612001][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:21:01][17122:405696373:1524612061][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:22:01][17226:1986839287:1524612121][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:23:01][17325:1052526241:1524612181][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:24:01][17422:1618887823:1524612241][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:25:01][17521:337952965:1524612301][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:26:01][17618:1864184775:1524612361][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:27:01][17722:520189971:1524612421][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:28:01][17825:1319753631:1524612481][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:29:01][17926:872441551:1524612541][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:30:01][18024:688660607:1524612601][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:31:01][18120:563993539:1524612661][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:32:01][18221:1179980455:1524612721][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:33:01][18321:323115532:1524612781][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:34:01][18427:1027663038:1524612841][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:35:01][18528:868965312:1524612901][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:36:02][18625:1790158646:1524612962][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:37:01][18718:227612878:1524613021][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:38:01][18814:1474019319:1524613081][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:39:01][18918:567877703:1524613141][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:40:01][19070:876664751:1524613201][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:41:01][19174:275593842:1524613261][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:42:01][19273:1221360271:1524613321][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:43:01][19371:866185423:1524613381][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:44:01][19483:1128407796:1524613441][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:45:01][19584:1842099878:1524613501][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:46:01][19686:721823827:1524613561][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:47:01][19790:1170674397:1524613621][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:48:01][19893:1508376021:1524613681][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:49:01][19991:191761371:1524613741][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:50:01][20084:476432632:1524613801][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:51:01][20181:1159947713:1524613861][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:52:02][20282:1074205404:1524613922][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:53:01][20383:1842352820:1524613981][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:54:01][20489:2010429595:1524614041][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:55:01][20586:290711490:1524614101][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:56:01][20681:1276494207:1524614161][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:57:01][20776:1357290533:1524614221][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:58:01][20873:1220996872:1524614281][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 07:59:01][20993:1350834010:1524614341][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:00:01][21124:1165233656:1524614401][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:01:01][21222:597890974:1524614461][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:02:01][21316:326453244:1524614521][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:03:01][21421:739446180:1524614581][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:04:01][21560:415427651:1524614641][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:05:01][21656:683601933:1524614701][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:06:01][21757:1327384667:1524614761][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:07:01][21901:1864564562:1524614821][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:08:01][21998:418705180:1524614881][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:09:01][22096:645857232:1524614941][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:10:01][22243:2136584181:1524615001][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:11:01][22344:703251358:1524615061][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:12:01][22445:2070792678:1524615121][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:13:01][22545:983013622:1524615181][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:14:01][22643:889963530:1524615241][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:15:01][22738:1640607693:1524615301][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:16:01][22834:241104534:1524615361][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:17:01][22930:664419402:1524615421][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:18:01][23033:1692256402:1524615481][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:19:01][23132:1003799446:1524615541][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:20:01][23229:626640846:1524615601][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:21:01][23326:1013625540:1524615661][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:22:01][23420:535686957:1524615721][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:23:01][23517:632754588:1524615781][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:24:01][23616:1834393155:1524615841][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:25:02][23717:365857131:1524615902][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:26:01][23816:1893954724:1524615961][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:27:01][23914:666848958:1524616021][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:28:01][24005:49436833:1524616081][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:29:01][24100:1728711890:1524616141][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:30:01][24197:710261525:1524616201][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:31:01][24299:1259967875:1524616261][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:32:01][24399:712125092:1524616321][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:33:01][24494:339376125:1524616381][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:34:01][24589:405208030:1524616441][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:35:01][24686:2019901968:1524616501][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:36:01][24781:1439809254:1524616561][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:37:01][24878:886344362:1524616621][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:38:01][24974:293285880:1524616681][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:39:01][25080:956763260:1524616741][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:40:01][25228:1508095336:1524616801][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:41:02][25320:1415986206:1524616862][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:42:01][25414:949139589:1524616921][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:43:01][25509:1625669335:1524616981][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:44:01][25607:2116331153:1524617041][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:45:01][25705:1560213341:1524617101][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:46:01][25800:664443101:1524617161][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:47:01][25894:257193511:1524617221][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:48:01][25994:1820289017:1524617281][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:49:01][26089:1178851844:1524617341][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:50:01][26188:1477905698:1524617401][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:51:01][26291:1783647006:1524617461][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:52:01][26394:1331467567:1524617521][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:53:01][26493:1736046305:1524617581][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:54:01][26616:566910302:1524617641][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:55:01][26715:426758296:1524617701][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:56:01][26817:804239764:1524617761][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:57:01][26919:1270882890:1524617821][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:58:01][27018:1692630511:1524617881][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 08:59:02][27188:1915278236:1524617942][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:00:01][27291:483156814:1524618001][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:01:01][27400:728737382:1524618061][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:02:01][27506:1979004562:1524618121][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:03:01][27625:1746670381:1524618181][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:04:01][27727:27997939:1524618241][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:05:01][27826:868947737:1524618301][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:06:01][27925:650047764:1524618361][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:07:01][28020:881755651:1524618421][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:08:01][28118:912322342:1524618481][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:09:01][28222:356008163:1524618541][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:10:01][28378:531843112:1524618601][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:11:01][28505:1574957664:1524618661][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:12:01][28603:1080853502:1524618721][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:13:01][28698:617176209:1524618781][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:14:01][28816:10278960:1524618841][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:15:02][28920:126773458:1524618901][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:16:01][29022:1987470550:1524618961][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:17:01][29124:181541669:1524619021][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:18:01][29234:1420055828:1524619081][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:19:01][29362:1772756755:1524619141][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:20:01][29457:1306056253:1524619201][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:21:01][29570:794927412:1524619261][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:22:01][29701:365074994:1524619321][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:23:01][29800:833797180:1524619381][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:24:01][29923:333666032:1524619441][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:25:01][30019:1277734540:1524619501][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:26:01][30114:1703914637:1524619561][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:27:01][30209:875984258:1524619621][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:28:01][30311:389958583:1524619681][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:29:01][30413:841863929:1524619741][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:30:01][30513:2001915211:1524619801][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:31:01][30612:78795300:1524619861][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:32:02][30712:351875107:1524619922][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:33:01][30810:431237014:1524619981][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]
+[2018-04-25 09:34:01][30911:314550788:1524620041][][[Check_online_status.php][__construct][20][INFO][] Vod_Call_Cgw::config=array (
+  'URL' => 'http://fcgi.video.qcloud.com/common_access',
+  'TIMEOUT' => '3000',
+)]

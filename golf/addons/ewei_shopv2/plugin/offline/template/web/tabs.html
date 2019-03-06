@@ -1,0 +1,30 @@
+<div class='menu-header'>{php echo $this->plugintitle}</div>
+
+
+<ul>
+    <li class="active"><a href="{php echo webUrl('offline/line')}">订单管理</a></li>
+</ul>
+
+
+<style type='text/css'>
+    .abonus-list a {
+        position: relative;
+    }
+    .abonus-list span  {
+        float:right;margin-right:20px;
+    }
+</style>
+
+
+
+<script>
+    $(function () {
+        $.ajax({type: "GET",async: false,url: "{php echo webUrl('abonus/bonus/totals')}",dataType:"json",success: function(data){
+            var res = data.result;
+            $("#total0").text(res.total0);
+            $("#total1").text(res.total1);
+            $("#total2").text(res.total2);
+        }
+        });
+    });
+</script>

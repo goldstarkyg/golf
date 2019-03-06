@@ -1,0 +1,22 @@
+[2018-06-08 23:12:41][7272:8854:1528470761][][[E:\work\Golf\src\golf\service\interface.php][main][7][INFO][0] request:]
+[2018-06-08 23:12:41][7272:8854:1528470761][][[E:\work\Golf\src\golf\service\interface.php][Process][32][ERROR][4001] http post body is empty or invalid json format in post body from client! | http post body is empty or invalid json format in post body from client!]
+[2018-06-08 23:12:41][7272:8854:1528470761][][[E:\work\Golf\src\golf\service\interface.php][main][16][INFO][0] response(123):{"returnValue":4001,"returnMsg":"http post body is empty or invalid json format in post body from client!","returnData":[]}]
+[2018-06-08 23:12:51][7272:7703:1528470771][][[E:\work\Golf\src\golf\service\interface.php][main][7][INFO][0] request:]
+[2018-06-08 23:12:51][7272:7703:1528470771][][[E:\work\Golf\src\golf\service\interface.php][Process][32][ERROR][4001] http post body is empty or invalid json format in post body from client! | http post body is empty or invalid json format in post body from client!]
+[2018-06-08 23:12:51][7272:7703:1528470771][][[E:\work\Golf\src\golf\service\interface.php][main][16][INFO][0] response(123):{"returnValue":4001,"returnMsg":"http post body is empty or invalid json format in post body from client!","returnData":[]}]
+[2018-06-08 23:13:03][7272:516:1528470783][][[E:\work\Golf\src\golf\service\interface.php][main][7][INFO][0] request:]
+[2018-06-08 23:13:03][7272:516:1528470783][][[E:\work\Golf\src\golf\service\interface.php][Process][32][ERROR][4001] http post body is empty or invalid json format in post body from client! | http post body is empty or invalid json format in post body from client!]
+[2018-06-08 23:13:03][7272:516:1528470783][][[E:\work\Golf\src\golf\service\interface.php][main][16][INFO][0] response(123):{"returnValue":4001,"returnMsg":"http post body is empty or invalid json format in post body from client!","returnData":[]}]
+[2018-06-08 23:13:21][7272:17389:1528470801][][[E:\work\Golf\src\golf\service\interface.php][main][7][INFO][0] request:]
+[2018-06-08 23:13:21][7272:17389:1528470801][][[E:\work\Golf\src\golf\service\interface.php][Process][32][ERROR][4001] http post body is empty or invalid json format in post body from client! | http post body is empty or invalid json format in post body from client!]
+[2018-06-08 23:13:21][7272:17389:1528470801][][[E:\work\Golf\src\golf\service\interface.php][main][16][INFO][0] response(123):{"returnValue":4001,"returnMsg":"http post body is empty or invalid json format in post body from client!","returnData":[]}]
+[2018-06-08 23:13:34][7272:21026:1528470814][][[E:\work\Golf\src\golf\service\interface.php][main][7][INFO][0] request: { "flag" : "3",	
+  "Action" : "VIPFetchList",	
+ "pageno" :  "1",	
+ "pagesize" : "20",	
+ "cat_id" :  "0",
+"vip_userid":aaaa1111
+ }
+]
+[2018-06-08 23:13:34][7272:21026:1528470814][][[E:\work\Golf\src\golf\service\interface.php][Process][32][ERROR][4001] http post body is empty or invalid json format in post body from client! | http post body is empty or invalid json format in post body from client!]
+[2018-06-08 23:13:34][7272:21026:1528470814][][[E:\work\Golf\src\golf\service\interface.php][main][16][INFO][0] response(123):{"returnValue":4001,"returnMsg":"http post body is empty or invalid json format in post body from client!","returnData":[]}]

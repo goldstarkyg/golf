@@ -1,0 +1,273 @@
+[2018-04-14 02:18:53][13141:75330094:1523643533][][[interface.php][main][6][INFO][0] request:]
+[2018-04-14 02:18:53][13141:75330094:1523643533][][[interface.php][Process][32][ERROR][4001] http post body is empty or invalid json format in post body from client! | http post body is empty or invalid json format in post body from client!]
+[2018-04-14 02:18:53][13141:75330094:1523643533][][[interface.php][main][15][INFO][0] response(123):{"returnValue":4001,"returnMsg":"http post body is empty or invalid json format in post body from client!","returnData":[]}]
+[2018-04-14 09:45:54][13141:1345014935:1523670354][][[interface.php][main][6][INFO][0] request:]
+[2018-04-14 09:45:54][13141:1345014935:1523670354][][[interface.php][Process][32][ERROR][4001] http post body is empty or invalid json format in post body from client! | http post body is empty or invalid json format in post body from client!]
+[2018-04-14 09:45:54][13141:1345014935:1523670354][][[interface.php][main][15][INFO][0] response(123):{"returnValue":4001,"returnMsg":"http post body is empty or invalid json format in post body from client!","returnData":[]}]
+[2018-04-14 16:36:21][13141:218718129:1523694981][][[interface.php][main][6][INFO][0] request:]
+[2018-04-14 16:36:21][13141:218718129:1523694981][][[interface.php][Process][32][ERROR][4001] http post body is empty or invalid json format in post body from client! | http post body is empty or invalid json format in post body from client!]
+[2018-04-14 16:36:21][13141:218718129:1523694981][][[interface.php][main][15][INFO][0] response(123):{"returnValue":4001,"returnMsg":"http post body is empty or invalid json format in post body from client!","returnData":[]}]
+[2018-04-14 16:37:48][13141:1324946031:1523695068][][[interface.php][main][6][INFO][0] request:{"flag":5,"user_id":"qqqq1111","pageno":1,"pagesize":20,"Action":"FetchList"}]
+[2018-04-14 16:37:48][13141:1324946031:1523695068][][appid:][[FetchList.php][process][28][INFO][0] FetchList args=array (
+  'user_id' => 'qqqq1111',
+  'flag' => 5,
+  'pageno' => 1,
+  'pagesize' => 20,
+)]
+[2018-04-14 16:37:48][13141:1324946031:1523695068][][appid:][[FetchList.php][process][139][INFO][0] FetchList::process() succeed]
+[2018-04-14 16:37:48][13141:1324946031:1523695068][][appid:][[interface.php][main][15][INFO][0] response(1081):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"totalcount":"2","pusherlist":[{"userid":"qqqq1111","fileid":"7447398155466850804","timestamp":1523619867,"title":"grwat video","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/2b5ff0937447398155466850804\/1Oeqa3Auvh4A.mp4","userinfo":{"nickname":"qqqq1111","headpic":"http:\/\/host-1254539864.file.myqcloud.com\/qqqq1111\/1523617118080","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/2b5ff0937447398155466850804\/7447398155466850805.jpg","location":""}},{"userid":"qqqq1111","fileid":"7447398155469774833","timestamp":1523617210,"title":"test tape","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/101fe11d7447398155469774833\/0h9lTYaQ98EA.mp4","userinfo":{"nickname":"qqqq1111","headpic":"http:\/\/host-1254539864.file.myqcloud.com\/qqqq1111\/1523617118080","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/101fe11d7447398155469774833\/7447398155469774834.jpg","location":""}}]}}]
+[2018-04-14 16:46:23][13141:1497360095:1523695583][][[interface.php][main][6][INFO][0] request:{"flag":5,"user_id":"qqqq2222","pageno":1,"pagesize":20,"Action":"FetchList"}]
+[2018-04-14 16:46:23][13141:1497360095:1523695583][][appid:][[FetchList.php][process][28][INFO][0] FetchList args=array (
+  'user_id' => 'qqqq2222',
+  'flag' => 5,
+  'pageno' => 1,
+  'pagesize' => 20,
+)]
+[2018-04-14 16:46:23][13141:1497360095:1523695583][][appid:][[FetchList.php][process][139][INFO][0] FetchList::process() succeed]
+[2018-04-14 16:46:23][13141:1497360095:1523695583][][appid:][[interface.php][main][15][INFO][0] response(941):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"totalcount":"2","pusherlist":[{"userid":"qqqq2222","fileid":"7447398155462271436","timestamp":1523578769,"title":"dhjjkoo","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/e99cb68d7447398155462271436\/Q5yxYUIdL7EA.mp4","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/e99cb68d7447398155462271436\/7447398155462271437.jpg","location":""}},{"userid":"qqqq2222","fileid":"7447398155459002127","timestamp":1523575385,"title":"fghjjjk","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/130a0da87447398155459002127\/qECLuKdBDLcA.mp4","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/130a0da87447398155459002127\/7447398155459002128.jpg","location":""}}]}}]
+[2018-04-14 16:46:28][13141:1098202119:1523695588][][[interface.php][main][6][INFO][0] request:{"flag":5,"user_id":"qqqq2222","pageno":1,"pagesize":20,"Action":"FetchList"}]
+[2018-04-14 16:46:28][13141:1098202119:1523695588][][appid:][[FetchList.php][process][28][INFO][0] FetchList args=array (
+  'user_id' => 'qqqq2222',
+  'flag' => 5,
+  'pageno' => 1,
+  'pagesize' => 20,
+)]
+[2018-04-14 16:46:28][13141:1098202119:1523695588][][appid:][[FetchList.php][process][139][INFO][0] FetchList::process() succeed]
+[2018-04-14 16:46:28][13141:1098202119:1523695588][][appid:][[interface.php][main][15][INFO][0] response(941):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"totalcount":"2","pusherlist":[{"userid":"qqqq2222","fileid":"7447398155462271436","timestamp":1523578769,"title":"dhjjkoo","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/e99cb68d7447398155462271436\/Q5yxYUIdL7EA.mp4","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/e99cb68d7447398155462271436\/7447398155462271437.jpg","location":""}},{"userid":"qqqq2222","fileid":"7447398155459002127","timestamp":1523575385,"title":"fghjjjk","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/130a0da87447398155459002127\/qECLuKdBDLcA.mp4","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/130a0da87447398155459002127\/7447398155459002128.jpg","location":""}}]}}]
+[2018-04-14 17:23:58][13141:1031627304:1523697838][][[interface.php][main][6][INFO][0] request:]
+[2018-04-14 17:23:58][13141:1031627304:1523697838][][[interface.php][Process][32][ERROR][4001] http post body is empty or invalid json format in post body from client! | http post body is empty or invalid json format in post body from client!]
+[2018-04-14 17:23:58][13141:1031627304:1523697838][][[interface.php][main][15][INFO][0] response(123):{"returnValue":4001,"returnMsg":"http post body is empty or invalid json format in post body from client!","returnData":[]}]
+[2018-04-14 19:50:35][13141:1326833079:1523706635][][[interface.php][main][6][INFO][0] request:{"flag":1,"pageno":1,"pagesize":20,"Action":"FetchList"}]
+[2018-04-14 19:50:35][13141:1326833079:1523706635][][[interface.php][main][15][INFO][0] response(113):{"returnValue":1000,"returnMsg":"invalid param in json from client! | user_id is null or empty!","returnData":[]}]
+[2018-04-14 19:51:00][13141:773512236:1523706660][][[interface.php][main][6][INFO][0] request:]
+[2018-04-14 19:51:00][13141:773512236:1523706660][][[interface.php][Process][32][ERROR][4001] http post body is empty or invalid json format in post body from client! | http post body is empty or invalid json format in post body from client!]
+[2018-04-14 19:51:00][13141:773512236:1523706660][][[interface.php][main][15][INFO][0] response(123):{"returnValue":4001,"returnMsg":"http post body is empty or invalid json format in post body from client!","returnData":[]}]
+[2018-04-14 19:51:13][13141:2088963234:1523706673][][[interface.php][main][6][INFO][0] request:{"flag":1,"pageno":1,"pagesize":20,"Action":"FetchList"}]
+[2018-04-14 19:51:13][13141:2088963234:1523706673][][[interface.php][main][15][INFO][0] response(113):{"returnValue":1000,"returnMsg":"invalid param in json from client! | user_id is null or empty!","returnData":[]}]
+[2018-04-14 19:51:46][13141:1321699820:1523706706][][[interface.php][main][6][INFO][0] request:{"flag":5,"user_id":"qqqq2222","pageno":1,"pagesize":20,"Action":"FetchList"}]
+[2018-04-14 19:51:46][13141:1321699820:1523706706][][appid:][[FetchList.php][process][28][INFO][0] FetchList args=array (
+  'user_id' => 'qqqq2222',
+  'flag' => 5,
+  'pageno' => 1,
+  'pagesize' => 20,
+)]
+[2018-04-14 19:51:46][13141:1321699820:1523706706][][appid:][[FetchList.php][process][139][INFO][0] FetchList::process() succeed]
+[2018-04-14 19:51:46][13141:1321699820:1523706706][][appid:][[interface.php][main][15][INFO][0] response(941):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"totalcount":"2","pusherlist":[{"userid":"qqqq2222","fileid":"7447398155462271436","timestamp":1523578769,"title":"dhjjkoo","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/e99cb68d7447398155462271436\/Q5yxYUIdL7EA.mp4","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/e99cb68d7447398155462271436\/7447398155462271437.jpg","location":""}},{"userid":"qqqq2222","fileid":"7447398155459002127","timestamp":1523575385,"title":"fghjjjk","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/130a0da87447398155459002127\/qECLuKdBDLcA.mp4","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/130a0da87447398155459002127\/7447398155459002128.jpg","location":""}}]}}]
+[2018-04-14 19:51:48][13141:1246516674:1523706708][][[interface.php][main][6][INFO][0] request:{"flag":5,"user_id":"qqqq2222","pageno":1,"pagesize":20,"Action":"FetchList"}]
+[2018-04-14 19:51:48][13141:1246516674:1523706708][][appid:][[FetchList.php][process][28][INFO][0] FetchList args=array (
+  'user_id' => 'qqqq2222',
+  'flag' => 5,
+  'pageno' => 1,
+  'pagesize' => 20,
+)]
+[2018-04-14 19:51:48][13141:1246516674:1523706708][][appid:][[FetchList.php][process][139][INFO][0] FetchList::process() succeed]
+[2018-04-14 19:51:48][13141:1246516674:1523706708][][appid:][[interface.php][main][15][INFO][0] response(941):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"totalcount":"2","pusherlist":[{"userid":"qqqq2222","fileid":"7447398155462271436","timestamp":1523578769,"title":"dhjjkoo","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/e99cb68d7447398155462271436\/Q5yxYUIdL7EA.mp4","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/e99cb68d7447398155462271436\/7447398155462271437.jpg","location":""}},{"userid":"qqqq2222","fileid":"7447398155459002127","timestamp":1523575385,"title":"fghjjjk","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/130a0da87447398155459002127\/qECLuKdBDLcA.mp4","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/130a0da87447398155459002127\/7447398155459002128.jpg","location":""}}]}}]
+[2018-04-14 19:53:10][13141:31239844:1523706790][][[interface.php][main][6][INFO][0] request:{"flag":1,"pageno":1,"pagesize":20,"Action":"FetchList"}]
+[2018-04-14 19:53:10][13141:31239844:1523706790][][[interface.php][main][15][INFO][0] response(113):{"returnValue":1000,"returnMsg":"invalid param in json from client! | user_id is null or empty!","returnData":[]}]
+[2018-04-14 19:55:51][13141:664775365:1523706951][][[interface.php][main][6][INFO][0] request:{"flag":1,"pageno":1,"pagesize":20,"Action":"FetchList"}]
+[2018-04-14 19:55:51][13141:664775365:1523706951][][appid:][[FetchList.php][process][28][INFO][0] FetchList args=array (
+  'flag' => 1,
+  'pageno' => 1,
+  'pagesize' => 20,
+)]
+[2018-04-14 19:55:51][13141:664775365:1523706951][][appid:][[FetchList.php][process][139][INFO][0] FetchList::process() succeed]
+[2018-04-14 19:55:51][13141:664775365:1523706951][][appid:][[interface.php][main][15][INFO][0] response(100):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"totalcount":"0","pusherlist":[]}}]
+[2018-04-14 19:55:58][13141:423201406:1523706958][][[interface.php][main][6][INFO][0] request:{"flag":1,"pageno":1,"pagesize":20,"Action":"FetchList"}]
+[2018-04-14 19:55:58][13141:423201406:1523706958][][appid:][[FetchList.php][process][28][INFO][0] FetchList args=array (
+  'flag' => 1,
+  'pageno' => 1,
+  'pagesize' => 20,
+)]
+[2018-04-14 19:55:58][13141:423201406:1523706958][][appid:][[FetchList.php][process][139][INFO][0] FetchList::process() succeed]
+[2018-04-14 19:55:58][13141:423201406:1523706958][][appid:][[interface.php][main][15][INFO][0] response(100):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"totalcount":"0","pusherlist":[]}}]
+[2018-04-14 19:56:01][13141:140020660:1523706961][][[interface.php][main][6][INFO][0] request:{"flag":5,"pageno":1,"pagesize":20,"Action":"FetchList"}]
+[2018-04-14 19:56:01][13141:140020660:1523706961][][appid:][[FetchList.php][process][28][INFO][0] FetchList args=array (
+  'flag' => 5,
+  'pageno' => 1,
+  'pagesize' => 20,
+)]
+[2018-04-14 19:56:01][13141:140020660:1523706961][][appid:][[FetchList.php][process][139][INFO][0] FetchList::process() succeed]
+[2018-04-14 19:56:01][13141:140020660:1523706961][][appid:][[interface.php][main][15][INFO][0] response(1923):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"totalcount":"4","pusherlist":[{"userid":"qqqq1111","fileid":"7447398155466850804","timestamp":1523619867,"title":"grwat video","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/2b5ff0937447398155466850804\/1Oeqa3Auvh4A.mp4","userinfo":{"nickname":"qqqq1111","headpic":"http:\/\/host-1254539864.file.myqcloud.com\/qqqq1111\/1523617118080","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/2b5ff0937447398155466850804\/7447398155466850805.jpg","location":""}},{"userid":"qqqq1111","fileid":"7447398155469774833","timestamp":1523617210,"title":"test tape","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/101fe11d7447398155469774833\/0h9lTYaQ98EA.mp4","userinfo":{"nickname":"qqqq1111","headpic":"http:\/\/host-1254539864.file.myqcloud.com\/qqqq1111\/1523617118080","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/101fe11d7447398155469774833\/7447398155469774834.jpg","location":""}},{"userid":"qqqq2222","fileid":"7447398155462271436","timestamp":1523578769,"title":"dhjjkoo","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/e99cb68d7447398155462271436\/Q5yxYUIdL7EA.mp4","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/e99cb68d7447398155462271436\/7447398155462271437.jpg","location":""}},{"userid":"qqqq2222","fileid":"7447398155459002127","timestamp":1523575385,"title":"fghjjjk","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/130a0da87447398155459002127\/qECLuKdBDLcA.mp4","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/130a0da87447398155459002127\/7447398155459002128.jpg","location":""}}]}}]
+[2018-04-14 19:56:51][13141:617576537:1523707011][][[interface.php][main][6][INFO][0] request:{"Action":"RequestLVBAddr","userid":"qqqq2222","groupid":"@TGS#aIQA2BFFK","title":"chkkk","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"","location":"不显示地理位置"}}]
+[2018-04-14 19:56:51][13141:617576537:1523707011][][appid:][[RequestLVBAddr.php][process][29][INFO][0] RequstLVBAddr args=array (
+  'userid' => 'qqqq2222',
+  'groupid' => '@TGS#aIQA2BFFK',
+  'title' => 'chkkk',
+  'userinfo' => 
+  array (
+    'nickname' => 'qqqq2222',
+    'headpic' => '',
+    'frontcover' => '',
+    'location' => '不显示地理位置',
+  ),
+)]
+[2018-04-14 19:56:51][13141:617576537:1523707011][][appid:][[RequestLVBAddr.php][process][47][INFO][0] &txSecret=a5361ce39ae12761a27175f4b673310a&txTime=5ad216b3::5ad216b3]
+[2018-04-14 19:56:51][13141:617576537:1523707011][][appid:][[RequestLVBAddr.php][process][63][INFO][0] RequstLVBAddr::process() succeed]
+[2018-04-14 19:56:51][13141:617576537:1523707011][][appid:][[interface.php][main][15][INFO][0] response(268):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"pushurl":"rtmp:\/\/22437.livepush.myqcloud.com\/live\/22437_qqqq2222?bizid=22437&record_interval=10800&record=flv|hls&txSecret=a5361ce39ae12761a27175f4b673310a&txTime=5ad216b3","timestamp":1523707011}}]
+[2018-04-14 19:56:54][13141:1088544335:1523707014][][[interface.php][main][6][INFO][0] request:{"Action":"ChangeStatus","userid":"qqqq2222","status":0}]
+[2018-04-14 19:56:54][13141:1088544335:1523707014][][appid:][[ChangeStatus.php][process][25][INFO][0] ChangeStatus args=array (
+  'userid' => 'qqqq2222',
+  'status' => 0,
+)]
+[2018-04-14 19:56:54][13141:1088544335:1523707014][][appid:][[ChangeStatus.php][process][62][INFO][0] StopLVB::process() succeed]
+[2018-04-14 19:56:54][13141:1088544335:1523707014][][appid:][[interface.php][main][15][INFO][0] response(78):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"result":0}}]
+[2018-04-14 19:56:59][13141:501378308:1523707019][][[interface.php][main][6][INFO][0] request:{"flag":1,"pageno":1,"pagesize":20,"Action":"FetchList"}]
+[2018-04-14 19:56:59][13141:501378308:1523707019][][appid:][[FetchList.php][process][28][INFO][0] FetchList args=array (
+  'flag' => 1,
+  'pageno' => 1,
+  'pagesize' => 20,
+)]
+[2018-04-14 19:56:59][13141:501378308:1523707019][][appid:][[FetchList.php][process][139][INFO][0] FetchList::process() succeed]
+[2018-04-14 19:56:59][13141:501378308:1523707019][][appid:][[interface.php][main][15][INFO][0] response(557):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"totalcount":"1","pusherlist":[{"userid":"qqqq2222","groupid":"@TGS#aIQA2BFFK","timestamp":1523707011,"type":0,"viewercount":0,"likecount":0,"title":"chkkk","playurl":"http:\/\/22437.liveplay.myqcloud.com\/live\/22437_qqqq2222.flv","hls_play_url":"http:\/\/22437.liveplay.myqcloud.com\/live\/22437_qqqq2222.m3u8","desc":null,"forbid_status":0,"status":"1","fileid":"","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"","location":"\u4e0d\u663e\u793a\u5730\u7406\u4f4d\u7f6e"}}]}}]
+[2018-04-14 19:57:00][13141:155601436:1523707020][][[interface.php][main][6][INFO][0] request:{"flag":5,"pageno":1,"pagesize":20,"Action":"FetchList"}]
+[2018-04-14 19:57:00][13141:155601436:1523707020][][appid:][[FetchList.php][process][28][INFO][0] FetchList args=array (
+  'flag' => 5,
+  'pageno' => 1,
+  'pagesize' => 20,
+)]
+[2018-04-14 19:57:00][13141:155601436:1523707020][][appid:][[FetchList.php][process][139][INFO][0] FetchList::process() succeed]
+[2018-04-14 19:57:00][13141:155601436:1523707020][][appid:][[interface.php][main][15][INFO][0] response(1923):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"totalcount":"4","pusherlist":[{"userid":"qqqq1111","fileid":"7447398155466850804","timestamp":1523619867,"title":"grwat video","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/2b5ff0937447398155466850804\/1Oeqa3Auvh4A.mp4","userinfo":{"nickname":"qqqq1111","headpic":"http:\/\/host-1254539864.file.myqcloud.com\/qqqq1111\/1523617118080","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/2b5ff0937447398155466850804\/7447398155466850805.jpg","location":""}},{"userid":"qqqq1111","fileid":"7447398155469774833","timestamp":1523617210,"title":"test tape","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/101fe11d7447398155469774833\/0h9lTYaQ98EA.mp4","userinfo":{"nickname":"qqqq1111","headpic":"http:\/\/host-1254539864.file.myqcloud.com\/qqqq1111\/1523617118080","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/101fe11d7447398155469774833\/7447398155469774834.jpg","location":""}},{"userid":"qqqq2222","fileid":"7447398155462271436","timestamp":1523578769,"title":"dhjjkoo","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/e99cb68d7447398155462271436\/Q5yxYUIdL7EA.mp4","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/e99cb68d7447398155462271436\/7447398155462271437.jpg","location":""}},{"userid":"qqqq2222","fileid":"7447398155459002127","timestamp":1523575385,"title":"fghjjjk","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/130a0da87447398155459002127\/qECLuKdBDLcA.mp4","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/130a0da87447398155459002127\/7447398155459002128.jpg","location":""}}]}}]
+[2018-04-14 19:57:23][13141:919857611:1523707043][][[interface.php][main][6][INFO][0] request:{"flag":1,"pageno":1,"pagesize":20,"Action":"FetchList"}]
+[2018-04-14 19:57:23][13141:919857611:1523707043][][appid:][[FetchList.php][process][28][INFO][0] FetchList args=array (
+  'flag' => 1,
+  'pageno' => 1,
+  'pagesize' => 20,
+)]
+[2018-04-14 19:57:23][13141:919857611:1523707043][][appid:][[FetchList.php][process][139][INFO][0] FetchList::process() succeed]
+[2018-04-14 19:57:23][13141:919857611:1523707043][][appid:][[interface.php][main][15][INFO][0] response(557):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"totalcount":"1","pusherlist":[{"userid":"qqqq2222","groupid":"@TGS#aIQA2BFFK","timestamp":1523707011,"type":0,"viewercount":0,"likecount":0,"title":"chkkk","playurl":"http:\/\/22437.liveplay.myqcloud.com\/live\/22437_qqqq2222.flv","hls_play_url":"http:\/\/22437.liveplay.myqcloud.com\/live\/22437_qqqq2222.m3u8","desc":null,"forbid_status":0,"status":"1","fileid":"","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"","location":"\u4e0d\u663e\u793a\u5730\u7406\u4f4d\u7f6e"}}]}}]
+[2018-04-14 19:58:22][13141:275030601:1523707102][][[interface.php][main][6][INFO][0] request:{"flag":1,"pageno":1,"pagesize":20,"Action":"FetchList"}]
+[2018-04-14 19:58:22][13141:275030601:1523707102][][appid:][[FetchList.php][process][28][INFO][0] FetchList args=array (
+  'flag' => 1,
+  'pageno' => 1,
+  'pagesize' => 20,
+)]
+[2018-04-14 19:58:22][13141:275030601:1523707102][][appid:][[FetchList.php][process][139][INFO][0] FetchList::process() succeed]
+[2018-04-14 19:58:22][13141:275030601:1523707102][][appid:][[interface.php][main][15][INFO][0] response(557):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"totalcount":"1","pusherlist":[{"userid":"qqqq2222","groupid":"@TGS#aIQA2BFFK","timestamp":1523707011,"type":0,"viewercount":0,"likecount":0,"title":"chkkk","playurl":"http:\/\/22437.liveplay.myqcloud.com\/live\/22437_qqqq2222.flv","hls_play_url":"http:\/\/22437.liveplay.myqcloud.com\/live\/22437_qqqq2222.m3u8","desc":null,"forbid_status":0,"status":"1","fileid":"","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"","location":"\u4e0d\u663e\u793a\u5730\u7406\u4f4d\u7f6e"}}]}}]
+[2018-04-14 19:58:23][13141:2087263304:1523707103][][[interface.php][main][6][INFO][0] request:{"flag":5,"pageno":1,"pagesize":20,"Action":"FetchList"}]
+[2018-04-14 19:58:23][13141:2087263304:1523707103][][appid:][[FetchList.php][process][28][INFO][0] FetchList args=array (
+  'flag' => 5,
+  'pageno' => 1,
+  'pagesize' => 20,
+)]
+[2018-04-14 19:58:23][13141:2087263304:1523707103][][appid:][[FetchList.php][process][139][INFO][0] FetchList::process() succeed]
+[2018-04-14 19:58:23][13141:2087263304:1523707103][][appid:][[interface.php][main][15][INFO][0] response(1923):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"totalcount":"4","pusherlist":[{"userid":"qqqq1111","fileid":"7447398155466850804","timestamp":1523619867,"title":"grwat video","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/2b5ff0937447398155466850804\/1Oeqa3Auvh4A.mp4","userinfo":{"nickname":"qqqq1111","headpic":"http:\/\/host-1254539864.file.myqcloud.com\/qqqq1111\/1523617118080","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/2b5ff0937447398155466850804\/7447398155466850805.jpg","location":""}},{"userid":"qqqq1111","fileid":"7447398155469774833","timestamp":1523617210,"title":"test tape","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/101fe11d7447398155469774833\/0h9lTYaQ98EA.mp4","userinfo":{"nickname":"qqqq1111","headpic":"http:\/\/host-1254539864.file.myqcloud.com\/qqqq1111\/1523617118080","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/101fe11d7447398155469774833\/7447398155469774834.jpg","location":""}},{"userid":"qqqq2222","fileid":"7447398155462271436","timestamp":1523578769,"title":"dhjjkoo","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/e99cb68d7447398155462271436\/Q5yxYUIdL7EA.mp4","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/e99cb68d7447398155462271436\/7447398155462271437.jpg","location":""}},{"userid":"qqqq2222","fileid":"7447398155459002127","timestamp":1523575385,"title":"fghjjjk","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/130a0da87447398155459002127\/qECLuKdBDLcA.mp4","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/130a0da87447398155459002127\/7447398155459002128.jpg","location":""}}]}}]
+[2018-04-14 19:59:14][13141:1336222170:1523707154][][[interface.php][main][6][INFO][0] request:{"Action":"ChangeStatus","userid":"qqqq2222","status":1}]
+[2018-04-14 19:59:14][13141:1336222170:1523707154][][appid:][[ChangeStatus.php][process][25][INFO][0] ChangeStatus args=array (
+  'userid' => 'qqqq2222',
+  'status' => 1,
+)]
+[2018-04-14 19:59:14][13141:1336222170:1523707154][][appid:][[ChangeStatus.php][process][62][INFO][0] StopLVB::process() succeed]
+[2018-04-14 19:59:14][13141:1336222170:1523707154][][appid:][[interface.php][main][15][INFO][0] response(78):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"result":0}}]
+[2018-04-14 19:59:17][13141:846517883:1523707157][][[interface.php][main][6][INFO][0] request:{"flag":1,"pageno":1,"pagesize":20,"Action":"FetchList"}]
+[2018-04-14 19:59:17][13141:846517883:1523707157][][appid:][[FetchList.php][process][28][INFO][0] FetchList args=array (
+  'flag' => 1,
+  'pageno' => 1,
+  'pagesize' => 20,
+)]
+[2018-04-14 19:59:17][13141:846517883:1523707157][][appid:][[FetchList.php][process][139][INFO][0] FetchList::process() succeed]
+[2018-04-14 19:59:17][13141:846517883:1523707157][][appid:][[interface.php][main][15][INFO][0] response(100):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"totalcount":"0","pusherlist":[]}}]
+[2018-04-14 19:59:17][13141:1714460609:1523707157][][[interface.php][main][6][INFO][0] request:{"flag":5,"pageno":1,"pagesize":20,"Action":"FetchList"}]
+[2018-04-14 19:59:17][13141:1714460609:1523707157][][appid:][[FetchList.php][process][28][INFO][0] FetchList args=array (
+  'flag' => 5,
+  'pageno' => 1,
+  'pagesize' => 20,
+)]
+[2018-04-14 19:59:17][13141:1714460609:1523707157][][appid:][[FetchList.php][process][139][INFO][0] FetchList::process() succeed]
+[2018-04-14 19:59:17][13141:1714460609:1523707157][][appid:][[interface.php][main][15][INFO][0] response(1923):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"totalcount":"4","pusherlist":[{"userid":"qqqq1111","fileid":"7447398155466850804","timestamp":1523619867,"title":"grwat video","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/2b5ff0937447398155466850804\/1Oeqa3Auvh4A.mp4","userinfo":{"nickname":"qqqq1111","headpic":"http:\/\/host-1254539864.file.myqcloud.com\/qqqq1111\/1523617118080","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/2b5ff0937447398155466850804\/7447398155466850805.jpg","location":""}},{"userid":"qqqq1111","fileid":"7447398155469774833","timestamp":1523617210,"title":"test tape","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/101fe11d7447398155469774833\/0h9lTYaQ98EA.mp4","userinfo":{"nickname":"qqqq1111","headpic":"http:\/\/host-1254539864.file.myqcloud.com\/qqqq1111\/1523617118080","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/101fe11d7447398155469774833\/7447398155469774834.jpg","location":""}},{"userid":"qqqq2222","fileid":"7447398155462271436","timestamp":1523578769,"title":"dhjjkoo","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/e99cb68d7447398155462271436\/Q5yxYUIdL7EA.mp4","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/e99cb68d7447398155462271436\/7447398155462271437.jpg","location":""}},{"userid":"qqqq2222","fileid":"7447398155459002127","timestamp":1523575385,"title":"fghjjjk","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/130a0da87447398155459002127\/qECLuKdBDLcA.mp4","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/130a0da87447398155459002127\/7447398155459002128.jpg","location":""}}]}}]
+[2018-04-14 19:59:29][13141:873129598:1523707169][][[interface.php][main][6][INFO][0] request:{"Action":"RequestLVBAddr","userid":"qqqq2222","groupid":"@TGS#aK5I2BFFX","title":"fyjkkk","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"","location":"不显示地理位置"}}]
+[2018-04-14 19:59:29][13141:873129598:1523707169][][appid:][[RequestLVBAddr.php][process][29][INFO][0] RequstLVBAddr args=array (
+  'userid' => 'qqqq2222',
+  'groupid' => '@TGS#aK5I2BFFX',
+  'title' => 'fyjkkk',
+  'userinfo' => 
+  array (
+    'nickname' => 'qqqq2222',
+    'headpic' => '',
+    'frontcover' => '',
+    'location' => '不显示地理位置',
+  ),
+)]
+[2018-04-14 19:59:29][13141:873129598:1523707169][][appid:][[RequestLVBAddr.php][process][47][INFO][0] &txSecret=e96b698a56d98031b5d0b6bff890bb84&txTime=5ad21751::5ad21751]
+[2018-04-14 19:59:29][13141:873129598:1523707169][][appid:][[RequestLVBAddr.php][process][63][INFO][0] RequstLVBAddr::process() succeed]
+[2018-04-14 19:59:29][13141:873129598:1523707169][][appid:][[interface.php][main][15][INFO][0] response(268):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"pushurl":"rtmp:\/\/22437.livepush.myqcloud.com\/live\/22437_qqqq2222?bizid=22437&record_interval=10800&record=flv|hls&txSecret=e96b698a56d98031b5d0b6bff890bb84&txTime=5ad21751","timestamp":1523707169}}]
+[2018-04-14 19:59:30][13141:2077471957:1523707170][][[interface.php][main][6][INFO][0] request:{"flag":1,"pageno":1,"pagesize":20,"Action":"FetchList"}]
+[2018-04-14 19:59:30][13141:2077471957:1523707170][][appid:][[FetchList.php][process][28][INFO][0] FetchList args=array (
+  'flag' => 1,
+  'pageno' => 1,
+  'pagesize' => 20,
+)]
+[2018-04-14 19:59:30][13141:2077471957:1523707170][][appid:][[FetchList.php][process][139][INFO][0] FetchList::process() succeed]
+[2018-04-14 19:59:30][13141:2077471957:1523707170][][appid:][[interface.php][main][15][INFO][0] response(558):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"totalcount":"1","pusherlist":[{"userid":"qqqq2222","groupid":"@TGS#aK5I2BFFX","timestamp":1523707169,"type":0,"viewercount":0,"likecount":0,"title":"fyjkkk","playurl":"http:\/\/22437.liveplay.myqcloud.com\/live\/22437_qqqq2222.flv","hls_play_url":"http:\/\/22437.liveplay.myqcloud.com\/live\/22437_qqqq2222.m3u8","desc":null,"forbid_status":0,"status":"1","fileid":"","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"","location":"\u4e0d\u663e\u793a\u5730\u7406\u4f4d\u7f6e"}}]}}]
+[2018-04-14 19:59:31][13141:1091847727:1523707171][][[interface.php][main][6][INFO][0] request:{"flag":5,"pageno":1,"pagesize":20,"Action":"FetchList"}]
+[2018-04-14 19:59:31][13141:1091847727:1523707171][][appid:][[FetchList.php][process][28][INFO][0] FetchList args=array (
+  'flag' => 5,
+  'pageno' => 1,
+  'pagesize' => 20,
+)]
+[2018-04-14 19:59:31][13141:1091847727:1523707171][][appid:][[FetchList.php][process][139][INFO][0] FetchList::process() succeed]
+[2018-04-14 19:59:31][13141:1091847727:1523707171][][appid:][[interface.php][main][15][INFO][0] response(1923):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"totalcount":"4","pusherlist":[{"userid":"qqqq1111","fileid":"7447398155466850804","timestamp":1523619867,"title":"grwat video","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/2b5ff0937447398155466850804\/1Oeqa3Auvh4A.mp4","userinfo":{"nickname":"qqqq1111","headpic":"http:\/\/host-1254539864.file.myqcloud.com\/qqqq1111\/1523617118080","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/2b5ff0937447398155466850804\/7447398155466850805.jpg","location":""}},{"userid":"qqqq1111","fileid":"7447398155469774833","timestamp":1523617210,"title":"test tape","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/101fe11d7447398155469774833\/0h9lTYaQ98EA.mp4","userinfo":{"nickname":"qqqq1111","headpic":"http:\/\/host-1254539864.file.myqcloud.com\/qqqq1111\/1523617118080","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/101fe11d7447398155469774833\/7447398155469774834.jpg","location":""}},{"userid":"qqqq2222","fileid":"7447398155462271436","timestamp":1523578769,"title":"dhjjkoo","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/e99cb68d7447398155462271436\/Q5yxYUIdL7EA.mp4","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/e99cb68d7447398155462271436\/7447398155462271437.jpg","location":""}},{"userid":"qqqq2222","fileid":"7447398155459002127","timestamp":1523575385,"title":"fghjjjk","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/130a0da87447398155459002127\/qECLuKdBDLcA.mp4","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/130a0da87447398155459002127\/7447398155459002128.jpg","location":""}}]}}]
+[2018-04-14 19:59:31][13141:967253087:1523707171][][[interface.php][main][6][INFO][0] request:{"Action":"ChangeStatus","userid":"qqqq2222","status":0}]
+[2018-04-14 19:59:31][13141:967253087:1523707171][][appid:][[ChangeStatus.php][process][25][INFO][0] ChangeStatus args=array (
+  'userid' => 'qqqq2222',
+  'status' => 0,
+)]
+[2018-04-14 19:59:31][13141:967253087:1523707171][][appid:][[ChangeStatus.php][process][62][INFO][0] StopLVB::process() succeed]
+[2018-04-14 19:59:31][13141:967253087:1523707171][][appid:][[interface.php][main][15][INFO][0] response(78):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"result":0}}]
+[2018-04-14 19:59:39][13141:1427348405:1523707179][][[interface.php][main][6][INFO][0] request:{"Action":"ChangeStatus","userid":"qqqq2222","status":1}]
+[2018-04-14 19:59:39][13141:1427348405:1523707179][][appid:][[ChangeStatus.php][process][25][INFO][0] ChangeStatus args=array (
+  'userid' => 'qqqq2222',
+  'status' => 1,
+)]
+[2018-04-14 19:59:39][13141:1427348405:1523707179][][appid:][[ChangeStatus.php][process][62][INFO][0] StopLVB::process() succeed]
+[2018-04-14 19:59:39][13141:1427348405:1523707179][][appid:][[interface.php][main][15][INFO][0] response(78):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"result":0}}]
+[2018-04-14 20:01:24][13141:1940359977:1523707284][][[interface.php][main][6][INFO][0] request:{"flag":1,"pageno":1,"pagesize":20,"Action":"FetchList"}]
+[2018-04-14 20:01:24][13141:1940359977:1523707284][][appid:][[FetchList.php][process][28][INFO][0] FetchList args=array (
+  'flag' => 1,
+  'pageno' => 1,
+  'pagesize' => 20,
+)]
+[2018-04-14 20:01:24][13141:1940359977:1523707284][][appid:][[FetchList.php][process][139][INFO][0] FetchList::process() succeed]
+[2018-04-14 20:01:24][13141:1940359977:1523707284][][appid:][[interface.php][main][15][INFO][0] response(100):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"totalcount":"0","pusherlist":[]}}]
+[2018-04-14 20:01:24][13141:1928397656:1523707284][][[interface.php][main][6][INFO][0] request:{"flag":5,"pageno":1,"pagesize":20,"Action":"FetchList"}]
+[2018-04-14 20:01:24][13141:1928397656:1523707284][][appid:][[FetchList.php][process][28][INFO][0] FetchList args=array (
+  'flag' => 5,
+  'pageno' => 1,
+  'pagesize' => 20,
+)]
+[2018-04-14 20:01:24][13141:1928397656:1523707284][][appid:][[FetchList.php][process][139][INFO][0] FetchList::process() succeed]
+[2018-04-14 20:01:24][13141:1928397656:1523707284][][appid:][[interface.php][main][15][INFO][0] response(1923):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"totalcount":"4","pusherlist":[{"userid":"qqqq1111","fileid":"7447398155466850804","timestamp":1523619867,"title":"grwat video","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/2b5ff0937447398155466850804\/1Oeqa3Auvh4A.mp4","userinfo":{"nickname":"qqqq1111","headpic":"http:\/\/host-1254539864.file.myqcloud.com\/qqqq1111\/1523617118080","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/2b5ff0937447398155466850804\/7447398155466850805.jpg","location":""}},{"userid":"qqqq1111","fileid":"7447398155469774833","timestamp":1523617210,"title":"test tape","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/101fe11d7447398155469774833\/0h9lTYaQ98EA.mp4","userinfo":{"nickname":"qqqq1111","headpic":"http:\/\/host-1254539864.file.myqcloud.com\/qqqq1111\/1523617118080","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/101fe11d7447398155469774833\/7447398155469774834.jpg","location":""}},{"userid":"qqqq2222","fileid":"7447398155462271436","timestamp":1523578769,"title":"dhjjkoo","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/e99cb68d7447398155462271436\/Q5yxYUIdL7EA.mp4","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/e99cb68d7447398155462271436\/7447398155462271437.jpg","location":""}},{"userid":"qqqq2222","fileid":"7447398155459002127","timestamp":1523575385,"title":"fghjjjk","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/130a0da87447398155459002127\/qECLuKdBDLcA.mp4","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/130a0da87447398155459002127\/7447398155459002128.jpg","location":""}}]}}]
+[2018-04-14 20:01:29][13141:2062595109:1523707289][][[interface.php][main][6][INFO][0] request:{"flag":1,"pageno":1,"pagesize":20,"Action":"FetchList"}]
+[2018-04-14 20:01:29][13141:2062595109:1523707289][][appid:][[FetchList.php][process][28][INFO][0] FetchList args=array (
+  'flag' => 1,
+  'pageno' => 1,
+  'pagesize' => 20,
+)]
+[2018-04-14 20:01:29][13141:2062595109:1523707289][][appid:][[FetchList.php][process][139][INFO][0] FetchList::process() succeed]
+[2018-04-14 20:01:29][13141:2062595109:1523707289][][appid:][[interface.php][main][15][INFO][0] response(100):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"totalcount":"0","pusherlist":[]}}]
+[2018-04-14 20:01:29][13141:1971599822:1523707289][][[interface.php][main][6][INFO][0] request:{"flag":5,"pageno":1,"pagesize":20,"Action":"FetchList"}]
+[2018-04-14 20:01:29][13141:1971599822:1523707289][][appid:][[FetchList.php][process][28][INFO][0] FetchList args=array (
+  'flag' => 5,
+  'pageno' => 1,
+  'pagesize' => 20,
+)]
+[2018-04-14 20:01:29][13141:1971599822:1523707289][][appid:][[FetchList.php][process][139][INFO][0] FetchList::process() succeed]
+[2018-04-14 20:01:29][13141:1971599822:1523707289][][appid:][[interface.php][main][15][INFO][0] response(1923):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"totalcount":"4","pusherlist":[{"userid":"qqqq1111","fileid":"7447398155466850804","timestamp":1523619867,"title":"grwat video","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/2b5ff0937447398155466850804\/1Oeqa3Auvh4A.mp4","userinfo":{"nickname":"qqqq1111","headpic":"http:\/\/host-1254539864.file.myqcloud.com\/qqqq1111\/1523617118080","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/2b5ff0937447398155466850804\/7447398155466850805.jpg","location":""}},{"userid":"qqqq1111","fileid":"7447398155469774833","timestamp":1523617210,"title":"test tape","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/101fe11d7447398155469774833\/0h9lTYaQ98EA.mp4","userinfo":{"nickname":"qqqq1111","headpic":"http:\/\/host-1254539864.file.myqcloud.com\/qqqq1111\/1523617118080","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/101fe11d7447398155469774833\/7447398155469774834.jpg","location":""}},{"userid":"qqqq2222","fileid":"7447398155462271436","timestamp":1523578769,"title":"dhjjkoo","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/e99cb68d7447398155462271436\/Q5yxYUIdL7EA.mp4","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/e99cb68d7447398155462271436\/7447398155462271437.jpg","location":""}},{"userid":"qqqq2222","fileid":"7447398155459002127","timestamp":1523575385,"title":"fghjjjk","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/130a0da87447398155459002127\/qECLuKdBDLcA.mp4","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/130a0da87447398155459002127\/7447398155459002128.jpg","location":""}}]}}]
+[2018-04-14 20:01:41][13141:445689373:1523707301][][[interface.php][main][6][INFO][0] request:{"flag":1,"pageno":1,"pagesize":20,"Action":"FetchList"}]
+[2018-04-14 20:01:41][13141:445689373:1523707301][][appid:][[FetchList.php][process][28][INFO][0] FetchList args=array (
+  'flag' => 1,
+  'pageno' => 1,
+  'pagesize' => 20,
+)]
+[2018-04-14 20:01:41][13141:445689373:1523707301][][appid:][[FetchList.php][process][139][INFO][0] FetchList::process() succeed]
+[2018-04-14 20:01:41][13141:445689373:1523707301][][appid:][[interface.php][main][15][INFO][0] response(100):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"totalcount":"0","pusherlist":[]}}]
+[2018-04-14 20:01:41][13141:338312867:1523707301][][[interface.php][main][6][INFO][0] request:{"flag":5,"pageno":1,"pagesize":20,"Action":"FetchList"}]
+[2018-04-14 20:01:41][13141:338312867:1523707301][][appid:][[FetchList.php][process][28][INFO][0] FetchList args=array (
+  'flag' => 5,
+  'pageno' => 1,
+  'pagesize' => 20,
+)]
+[2018-04-14 20:01:41][13141:338312867:1523707301][][appid:][[FetchList.php][process][139][INFO][0] FetchList::process() succeed]
+[2018-04-14 20:01:41][13141:338312867:1523707301][][appid:][[interface.php][main][15][INFO][0] response(1923):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"totalcount":"4","pusherlist":[{"userid":"qqqq1111","fileid":"7447398155466850804","timestamp":1523619867,"title":"grwat video","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/2b5ff0937447398155466850804\/1Oeqa3Auvh4A.mp4","userinfo":{"nickname":"qqqq1111","headpic":"http:\/\/host-1254539864.file.myqcloud.com\/qqqq1111\/1523617118080","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/2b5ff0937447398155466850804\/7447398155466850805.jpg","location":""}},{"userid":"qqqq1111","fileid":"7447398155469774833","timestamp":1523617210,"title":"test tape","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/101fe11d7447398155469774833\/0h9lTYaQ98EA.mp4","userinfo":{"nickname":"qqqq1111","headpic":"http:\/\/host-1254539864.file.myqcloud.com\/qqqq1111\/1523617118080","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/101fe11d7447398155469774833\/7447398155469774834.jpg","location":""}},{"userid":"qqqq2222","fileid":"7447398155462271436","timestamp":1523578769,"title":"dhjjkoo","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/e99cb68d7447398155462271436\/Q5yxYUIdL7EA.mp4","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/e99cb68d7447398155462271436\/7447398155462271437.jpg","location":""}},{"userid":"qqqq2222","fileid":"7447398155459002127","timestamp":1523575385,"title":"fghjjjk","type":2,"playurl":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/130a0da87447398155459002127\/qECLuKdBDLcA.mp4","userinfo":{"nickname":"qqqq2222","headpic":"","frontcover":"http:\/\/1254539864.vod2.myqcloud.com\/7d46732evodgzp1254539864\/130a0da87447398155459002127\/7447398155459002128.jpg","location":""}}]}}]
+[2018-04-14 21:14:29][13141:2111620482:1523711669][][[interface.php][main][6][INFO][0] request:]
+[2018-04-14 21:14:29][13141:2111620482:1523711669][][[interface.php][Process][32][ERROR][4001] http post body is empty or invalid json format in post body from client! | http post body is empty or invalid json format in post body from client!]
+[2018-04-14 21:14:29][13141:2111620482:1523711669][][[interface.php][main][15][INFO][0] response(123):{"returnValue":4001,"returnMsg":"http post body is empty or invalid json format in post body from client!","returnData":[]}]

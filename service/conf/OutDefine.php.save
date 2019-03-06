@@ -1,0 +1,29 @@
+
+<?php
+define('APP_ID','1254539864');
+define('APP_BIZID','22437');
+define('PUSH_URL_KEY','cde00525675aa10d31afadcd7646111f');
+define('CALL_BACK_KEY','d2fec10a14f7589e62dae9616d73d0da');
+define('COSKEY_BUCKET','host');
+define('COSKEY_SECRECTKEY','JRKzRecLsDI9mAJExQdfS1KRYQ2OfjbF');
+define('COSKEY_APPID','1254539864');
+define('COSKEY_SECRECTID','AKIDIQK4ez8QPBlAJD6HRL1UpwoRovmNvskM');
+define('COSKEY_EXPIRED_TIME','300');
+define('CLOUD_API_SECRETID','AKIDIQK4ez8QPBlAJD6HRL1UpwoRovmNvskM');  //暾API몸훙SecretId
+define('CLOUD_API_SECRETKEY','JRKzRecLsDI9mAJExQdfS1KRYQ2OfjbF');  //暾API몸훙SecrectKey
+?>
+<?php
+define('APP_ID','1254539864');
+define('APP_BIZID','22437');
+define('PUSH_URL_KEY','cde00525675aa10d31afadcd7646111f');
+define('CALL_BACK_KEY','d2fec10a14f7589e62dae9616d73d0da');
+define('COSKEY_BUCKET','host');
+define('COSKEY_SECRECTKEY','JRKzRecLsDI9mAJExQdfS1KRYQ2OfjbF');
+define('COSKEY_APPID','1254539864');
+define('COSKEY_SECRECTID','AKIDIQK4ez8QPBlAJD6HRL1UpwoRovmNvskM');
+define('COSKEY_EXPIRED_TIME','300');
+define('CLOUD_API_SECRETID','AKIDIQK4ez8QPBlAJD6HRL1UpwoRovmNvskM');  //暾API몸훙SecretId
+define('CLOUD_API_SECRETKEY','JRKzRecLsDI9mAJExQdfS1KRYQ2OfjbF');  //暾API몸훙SecrectKey
+?>
+
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://grandway020.com" versionCode="0.6">
+    <application setting="true">
+        <name><![CDATA[Golf]]></name>
+        <identifie><![CDATA[golf]]></identifie>
+        <version><![CDATA[1.1]]></version>
+        <type><![CDATA[business]]></type>
+        <ability><![CDATA[This is golf system！]]></ability>
+        <description><![CDATA[This was developed for golf users.]]></description>
+        <author><![CDATA[Gold]]></author>
+        <url><![CDATA[http://grandway020.com/]]></url>
+    </application>
+    <platform>
+        <subscribes>
+        </subscribes>
+        <handles>
+            <message type="text"/>
+        </handles>
+        <rule embed="false"/>
+    </platform>
+    <bindings>
+        <cover>
+        </cover>
+        <menu>
+            <entry title="Category"     do="category"/>
+            <entry title="Member"       do="member"/>
+            <entry title="Article"      do="article"/>
+            <entry title="Banner"       do="banner"/>
+            <entry title="VideoTag"     do="videotag"/>
+            <entry title="Advertisement" do="adv"/>
+            <entry title="LiveVideo"    do="livevideo"/>
+            <entry title="UgcVideo"     do="ugcvideo"/>
+            <entry title="VodVideo"     do="vodvideo"/>
+            <entry title="GiftCategory" do="giftcategory"/>
+            <entry title="BasicGiftList"     do="giftlist"/>
+            <entry title="BasicFanList"      do="fanlist"/>
+            <entry title="GoodList"      do="goodlist"/>
+        </menu>
+    </bindings>
+    <install><![CDATA[]]></install>
+    <uninstall><![CDATA[]]></uninstall>
+    <upgrade><![CDATA[]]></upgrade>
+</manifest>

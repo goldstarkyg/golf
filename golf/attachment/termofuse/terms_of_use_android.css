@@ -1,0 +1,22 @@
+body {
+    /*background : transparent;*/
+    background: #2B2420;
+    /*width: 200px;*/
+}
+
+section {
+    /*padding: 1rem 0 0 0;*/
+    color: white;
+    line-height: 2rem;
+    margin: auto;
+    /*background: #2B2420;*/
+}
+
+p {
+    /*padding:0 2.5% ;*/
+    margin: 0 auto;
+}
+
+.col-xs-12 {
+    /*padding:0 8%;*/
+}

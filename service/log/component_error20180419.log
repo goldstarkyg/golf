@@ -1,0 +1,4 @@
+[2018-04-19 00:50:11][19106:2006988343:1524070211][][[Live_callback.php][init][26][ERROR][0]  request para EC_SYSTEM_INVALID_JSON_FORMAT]
+[2018-04-19 07:50:02][19106:527950793:1524095402][][[Live_callback.php][init][26][ERROR][0]  request para EC_SYSTEM_INVALID_JSON_FORMAT]
+[2018-04-19 11:47:59][19106:1351361668:1524109679][][[Live_callback.php][process][108][ERROR][0] tape duration too short:17|22437_star12345|210038367_d3110da8a7004172859154f0baa9e1ce]
+[2018-04-19 11:47:59][19107:1137508232:1524109679][][[Live_callback.php][process][108][ERROR][0] tape duration too short:17|22437_star12345|210038367_680206f8d55e4e078d7ec276dfd263a6]

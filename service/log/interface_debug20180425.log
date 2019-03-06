@@ -1,0 +1,70 @@
+[2018-04-25 01:57:39][19107:24774427:1524592659][][[interface.php][main][7][INFO][0] request:]
+[2018-04-25 01:57:39][19107:24774427:1524592659][][[interface.php][Process][33][ERROR][4001] http post body is empty or invalid json format in post body from client! | http post body is empty or invalid json format in post body from client!]
+[2018-04-25 01:57:39][19107:24774427:1524592659][][[interface.php][main][16][INFO][0] response(123):{"returnValue":4001,"returnMsg":"http post body is empty or invalid json format in post body from client!","returnData":[]}]
+[2018-04-25 05:36:15][19107:174937478:1524605775][][[interface.php][main][7][INFO][0] request:]
+[2018-04-25 05:36:15][19107:174937478:1524605775][][[interface.php][Process][33][ERROR][4001] http post body is empty or invalid json format in post body from client! | http post body is empty or invalid json format in post body from client!]
+[2018-04-25 05:36:15][19107:174937478:1524605775][][[interface.php][main][16][INFO][0] response(123):{"returnValue":4001,"returnMsg":"http post body is empty or invalid json format in post body from client!","returnData":[]}]
+[2018-04-25 05:46:50][16241:45246561:1524606410][][[interface.php][main][7][INFO][0] request:]
+[2018-04-25 05:46:50][16241:45246561:1524606410][][[interface.php][Process][33][ERROR][4001] http post body is empty or invalid json format in post body from client! | http post body is empty or invalid json format in post body from client!]
+[2018-04-25 05:46:50][16241:45246561:1524606410][][[interface.php][main][16][INFO][0] response(123):{"returnValue":4001,"returnMsg":"http post body is empty or invalid json format in post body from client!","returnData":[]}]
+[2018-04-25 07:39:04][11802:335991148:1524613144][][[interface.php][main][7][INFO][0] request:]
+[2018-04-25 07:39:04][11802:335991148:1524613144][][[interface.php][Process][33][ERROR][4001] http post body is empty or invalid json format in post body from client! | http post body is empty or invalid json format in post body from client!]
+[2018-04-25 07:39:04][11802:335991148:1524613144][][[interface.php][main][16][INFO][0] response(123):{"returnValue":4001,"returnMsg":"http post body is empty or invalid json format in post body from client!","returnData":[]}]
+[2018-04-25 09:08:22][19107:928386353:1524618502][][[interface.php][main][7][INFO][0] request:{"userid":'qqqq1111',"type":1,"Action":"GetUserInfo",""}
+
+
+]
+[2018-04-25 09:08:22][19107:928386353:1524618502][][[interface.php][Process][33][ERROR][4001] http post body is empty or invalid json format in post body from client! | http post body is empty or invalid json format in post body from client!]
+[2018-04-25 09:08:22][19107:928386353:1524618502][][[interface.php][main][16][INFO][0] response(123):{"returnValue":4001,"returnMsg":"http post body is empty or invalid json format in post body from client!","returnData":[]}]
+[2018-04-25 09:08:48][11802:114717985:1524618528][][[interface.php][main][7][INFO][0] request:{"pageno":1,"pagesize":20,"flag":"3", "cat_id":"1","Action":"VIPFetchList"}
+
+
+]
+[2018-04-25 09:08:48][11802:114717985:1524618528][][appid:][[VIPFetchList.php][process][29][INFO][0] FetchList args=array (
+  'flag' => 3,
+  'pageno' => 1,
+  'cat_id' => 1,
+  'pagesize' => 20,
+)]
+[2018-04-25 09:08:48][11802:114717985:1524618528][][appid:][[VIPFetchList.php][process][91][DEBUG][0] FetchList all count:0:0startpos:0num:20]
+[2018-04-25 09:08:48][11802:114717985:1524618528][][appid:][[VIPFetchList.php][process][150][INFO][0] FetchList::process() succeed]
+[2018-04-25 09:08:48][11802:114717985:1524618528][][appid:][[interface.php][main][16][INFO][0] response(98):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"totalcount":0,"pusherlist":[]}}]
+[2018-04-25 09:09:09][16241:752983856:1524618549][][[interface.php][main][7][INFO][0] request:{"userid":'qqqq1111',"type":1,"Action":"GetUserInfo",""}
+
+
+]
+[2018-04-25 09:09:09][16241:752983856:1524618549][][[interface.php][Process][33][ERROR][4001] http post body is empty or invalid json format in post body from client! | http post body is empty or invalid json format in post body from client!]
+[2018-04-25 09:09:09][16241:752983856:1524618549][][[interface.php][main][16][INFO][0] response(123):{"returnValue":4001,"returnMsg":"http post body is empty or invalid json format in post body from client!","returnData":[]}]
+[2018-04-25 09:09:19][19107:1939642306:1524618559][][[interface.php][main][7][INFO][0] request:{"pageno":1,"pagesize":20,"flag":"3", "cat_id":"1","Action":"VIPFetchList"}
+
+]
+[2018-04-25 09:09:19][19107:1939642306:1524618559][][appid:][[VIPFetchList.php][process][29][INFO][0] FetchList args=array (
+  'flag' => 3,
+  'pageno' => 1,
+  'cat_id' => 1,
+  'pagesize' => 20,
+)]
+[2018-04-25 09:09:19][19107:1939642306:1524618559][][appid:][[VIPFetchList.php][process][91][DEBUG][0] FetchList all count:0:0startpos:0num:20]
+[2018-04-25 09:09:19][19107:1939642306:1524618559][][appid:][[VIPFetchList.php][process][150][INFO][0] FetchList::process() succeed]
+[2018-04-25 09:09:19][19107:1939642306:1524618559][][appid:][[interface.php][main][16][INFO][0] response(98):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"totalcount":0,"pusherlist":[]}}]
+[2018-04-25 09:09:34][11802:245270274:1524618574][][[interface.php][main][7][INFO][0] request:{"pageno":1,"pagesize":20,"flag":"3", "cat_id":"1","Action":"VIPFetchList"}
+
+]
+[2018-04-25 09:09:34][11802:245270274:1524618574][][appid:][[VIPFetchList.php][process][29][INFO][0] FetchList args=array (
+  'flag' => 3,
+  'pageno' => 1,
+  'cat_id' => 1,
+  'pagesize' => 20,
+)]
+[2018-04-25 09:09:34][11802:245270274:1524618574][][appid:][[VIPFetchList.php][process][91][DEBUG][0] FetchList all count:0:0startpos:0num:20]
+[2018-04-25 09:09:34][11802:245270274:1524618574][][appid:][[VIPFetchList.php][process][150][INFO][0] FetchList::process() succeed]
+[2018-04-25 09:09:34][11802:245270274:1524618574][][appid:][[interface.php][main][16][INFO][0] response(98):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"totalcount":0,"pusherlist":[]}}]
+[2018-04-25 09:10:01][16241:471671592:1524618601][][[interface.php][main][7][INFO][0] request:{"Action":"GetHostInfo", "userid":"future100", "password":"future100"}
+
+]
+[2018-04-25 09:10:01][16241:471671592:1524618601][][appid:][[GetHostInfo.php][process][26][INFO][0] GetHostInfo args=array (
+  'userid' => 'future100',
+  'password' => 'future100',
+)]
+[2018-04-25 09:10:01][16241:471671592:1524618601][][appid:][[GetHostInfo.php][process][50][INFO][0] GetHostInfo::process() succeed]
+[2018-04-25 09:10:01][16241:471671592:1524618601][][appid:][[interface.php][main][16][INFO][0] response(171):{"returnValue":0,"returnMsg":"return successfully!","returnData":{"userid":"future100","cat_id":1,"timestamp":1524542856,"nickname":"future100","mobile":"86-18841592222"}}]
