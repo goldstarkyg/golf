@@ -1,0 +1,15 @@
+2018-04-07 00:06:05 debug :
+------------
+String:
+account-ticket
+
+2018-04-07 23:33:37 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1515339217 AND createtime <= 1523201616 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-07 23:34:27 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1515339267 AND createtime <= 1523201666 ORDER BY createtime DESC LIMIT 0,50
+

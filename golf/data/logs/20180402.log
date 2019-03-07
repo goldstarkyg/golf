@@ -1,0 +1,10 @@
+2018-04-02 23:59:44 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1514908784 AND createtime <= 1522771183 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-02 23:59:56 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1514908796 AND createtime <= 1522771195 ORDER BY createtime DESC LIMIT 0,50
+

@@ -1,0 +1,170 @@
+2018-04-27 15:57:59 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1517039879 AND createtime <= 1524902278 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 15:58:19 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1517039899 AND createtime <= 1524902298 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 16:07:08 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1517040428 AND createtime <= 1524902827 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 22:08:47 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1517062127 AND createtime <= 1524924526 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 22:09:33 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1517062173 AND createtime <= 1524924572 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 22:09:36 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1517062176 AND createtime <= 1524924575 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 22:09:36 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1517062176 AND createtime <= 1524924575 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 22:09:46 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1516982400 AND createtime <= 1524931199 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 22:09:47 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1516982400 AND createtime <= 1524931199 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 22:10:35 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1516982400 AND createtime <= 1524931199 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 22:12:23 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1516982400 AND createtime <= 1524931199 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 22:12:40 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1516982400 AND createtime <= 1524931199 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 22:13:07 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1516982400 AND createtime <= 1524931199 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 22:13:14 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1516982400 AND createtime <= 1524931199 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 22:14:23 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1516982400 AND createtime <= 1524931199 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 22:14:47 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1516982400 AND createtime <= 1524931199 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 22:16:47 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1516982400 AND createtime <= 1524931199 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 22:17:02 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1516982400 AND createtime <= 1524931199 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 22:17:16 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1516982400 AND createtime <= 1524931199 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 22:22:36 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1516982400 AND createtime <= 1524931199 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 22:23:04 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1516982400 AND createtime <= 1524931199 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 22:23:18 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1516982400 AND createtime <= 1524931199 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 22:24:23 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1516982400 AND createtime <= 1524931199 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 22:25:17 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1516982400 AND createtime <= 1524931199 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 22:25:51 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1516982400 AND createtime <= 1524931199 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 22:28:01 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1516982400 AND createtime <= 1524931199 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 22:28:15 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1516982400 AND createtime <= 1524931199 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 22:31:59 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1516982400 AND createtime <= 1524931199 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 22:35:00 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime, tencentuserid  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1516982400 AND createtime <= 1524931199 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 23:17:37 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime, tencentuserid  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1517066257 AND createtime <= 1524928656 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 23:17:44 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime, tencentuserid  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1517066264 AND createtime <= 1524928663 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 23:18:58 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime, tencentuserid  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1517066338 AND createtime <= 1524928737 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 23:48:41 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime, tencentuserid  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1517068121 AND createtime <= 1524930520 ORDER BY createtime DESC LIMIT 0,50
+
+2018-04-27 23:50:29 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime, tencentuserid  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1517068229 AND createtime <= 1524930628 ORDER BY createtime DESC LIMIT 0,50
+

@@ -1,0 +1,5 @@
+2018-06-18 22:25:13 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime, tencentuserid, vip  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1521555913 AND createtime <= 1529418312 ORDER BY createtime DESC LIMIT 0,50
+

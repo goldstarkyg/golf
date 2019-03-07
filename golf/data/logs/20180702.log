@@ -1,0 +1,15 @@
+2018-07-02 14:19:54 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime, tencentuserid, vip  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1522736394 AND createtime <= 1530598793 ORDER BY createtime DESC LIMIT 0,50
+
+2018-07-02 14:20:26 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime, tencentuserid, vip  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1522736426 AND createtime <= 1530598825 ORDER BY createtime DESC LIMIT 0,50
+
+2018-07-02 23:43:48 web_source_mc_member :
+------------
+String:
+SELECT uid, uniacid, groupid, realname, nickname, email, mobile, credit1, credit2, credit6, createtime, tencentuserid, vip  FROM `ims_mc_members` WHERE uniacid = '8'  AND createtime >= 1522770228 AND createtime <= 1530632627 ORDER BY createtime DESC LIMIT 0,50
+
